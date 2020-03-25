@@ -1,0 +1,161 @@
+img {
+
+    max-width: 60%;
+    height: auto;
+}
+
+.fondo-color{
+
+    background-color: #03A696;
+    background-size: 30px 100px;
+    color: white;
+}
+
+.quitar-float {
+
+    float: none;
+}
+
+.top_espacio {
+    margin-top: 10px;
+}
+
+.bot_espacio{
+    margin-top: 50px;
+}
+
+.letra {
+
+    font-family: 'Lobster', cursive;
+    color: white
+}
+
+
+.otraletra {
+    
+    font-family: 'Cinzel', serif;
+
+}
+
+.retraso {
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;
+    animation-delay: o.5s;
+}
+
+.retraso2 {
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    animation-delay: 1s;
+
+}
+
+.retraso3 {
+    -webkit-animation-delay: 1.2s;
+    -moz-animation-delay: 1.2s;
+    animation-delay: 1.2s;
+
+}
+
+.derecha-espacio {
+
+    margin-right: 3cm;
+}
+
+.nopunto li{
+    list-style-type: none;
+    
+}
+
+.sombra {
+
+    box-shadow: 10px 10px 0px grey;
+    margin-bottom: 20px;
+}
+.nolista {
+
+    margin: 0px;
+    padding: 0px;
+}
+.inline-block {
+
+    float: none;
+    display: inline-block;
+       
+
+
+}
+
+.soygris { 
+
+    background-color: #025159;
+    padding: 1px 10px;
+    color: white;
+    
+       
+}
+
+#particles-js{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -2;
+    background-color: #232741;
+
+}
+
+.bodypaint{
+    background-color: black;
+
+}
+
+.contenedorM {
+
+    width: 120%;
+    max-width: 1200px;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding: 20px 30px;
+    position: relative;
+    z-index: 99;
+    opacity: .85;
+    
+}
+
+
+.letranueva{
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
+
+.soyblanco {
+    color: white;
+}
+
+
+
+.vearriba {
+
+    vertical-align: top;
+}
+
+
+.grande{
+
+    font-size: 2cm;
+}
+
+.letradefinitiva {
+    font-family: 'Acme', sans-serif;
+    color: white;
+
+}
+
+.contenedor:hover {
+    -webkit-transform:scale(1.2);transform:scale(1.1);
+}
+
+.contenedor {overflow:hidden;}
